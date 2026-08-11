@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.vscode/settings.json
+app/config.yaml
+profile_detector.py
+benchmark_detector.py
+face_env.yaml
+app/models/unet_320_deeper.tflite
+migrate_npy.py
+data/face_edge_onnx.sqlite3
+unet_320x320_input.jpg
+check_npy_db.py
+app/models/arcface_embedding_model - Jaya.tflite
+data/face_edge_onnx.sqlite3
+migrate_npz_to_onnx.py
